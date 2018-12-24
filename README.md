@@ -1,2 +1,0 @@
-# Assignment_1.11476
-PROGRAMMING WITH R - I
